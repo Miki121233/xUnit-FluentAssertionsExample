@@ -17,7 +17,7 @@ namespace xUnit_FluidAssertionExample.Tests.ClassesTests
             var classExample = new ClassExample();
 
             //Act
-            var result = classExample.returnFoxIfZero;
+            var result = classExample.returnFoxIfZero(0);
 
             //Assert
             result.Should().Be("Fox");
