@@ -1,9 +1,9 @@
 ﻿using FluentAssertions;
 using FluentAssertions.Extensions;
 using System.Net.NetworkInformation;
-using xUnit_FluidAssertionExample.Classes;
+using xUnit_FluentAssertionsExample.Classes;
 
-namespace xUnit_FluidAssertionExample.Tests.ClassesTests
+namespace xUnit_FluentAssertionsExample.Tests.ClassesTests
 {
     public class ClassExampleTests
     {

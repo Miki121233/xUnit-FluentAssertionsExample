@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\xUnit-FluidAssertionExample\xUnit-FluidAssertionExample.csproj" />
+    <ProjectReference Include="..\xUnit-FluidAssertionExample\xUnit-FluentAssertionsExample.csproj" />
   </ItemGroup>
 
 </Project>

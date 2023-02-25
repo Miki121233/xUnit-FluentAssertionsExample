@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnit-FluidAssertionExample", "xUnit-FluidAssertionExample\xUnit-FluidAssertionExample.csproj", "{0E2E710B-4304-4033-893E-1A22B4876622}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnit-FluentAssertionsExample", "xUnit-FluidAssertionExample\xUnit-FluentAssertionsExample.csproj", "{0E2E710B-4304-4033-893E-1A22B4876622}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xUnit-FluidAssertionExample.Tests", "xUnit-FluidAssertionExample.Tests\xUnit-FluidAssertionExample.Tests.csproj", "{F3D8705B-9896-4A6D-A645-23188D8C15D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xUnit-FluentAssertionsExample.Tests", "xUnit-FluidAssertionExample.Tests\xUnit-FluentAssertionsExample.Tests.csproj", "{F3D8705B-9896-4A6D-A645-23188D8C15D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

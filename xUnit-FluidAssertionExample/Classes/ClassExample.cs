@@ -5,7 +5,7 @@ using System.Net.NetworkInformation;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace xUnit_FluidAssertionExample.Classes
+namespace xUnit_FluentAssertionsExample.Classes
 {
     public class ClassExample
     {
